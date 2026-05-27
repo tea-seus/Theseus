@@ -42,7 +42,7 @@ Right now I'm sharpening my work around:
 ## Tech
 
 ```text
-Languages: C++, Python, Blueprint
+Languages: C++, C#, Blueprint
 Engine:    Unreal Engine
 Systems:   GAS, AI behavior, gameplay architecture
 Interests: game design, tools, agents, combat, iteration
